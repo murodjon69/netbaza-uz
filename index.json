@@ -26,6 +26,53 @@
     {
         "name":" Google Chrome (64-bit)",
         "url":"https://www.google.com/intl/en/chrome/?standalone=1&platform=win64"
+    },
+    {
+        "name":"4K YouTube to MP3 4.5.0 (64-bit)",
+        "url":"https://dl.4kdownload.com/app/4kyoutubetomp3_4.5.0_x64_online.exe"
+    },
+    {
+        "name":"Instagram",
+        "url":"https://www.ldplayer.net/apps/instagram-on-pc.html?n=75962714#utm_source=aff&utm_medium=aff&utm_campaign=aff75962714"
+    },
+    {
+        "name":"PUBG Mobile for PC",
+        "url":"https://www.filehorse.com/download-pubg-mobile/download/"
+    }
+    {
+        "name":"Euro Truck Simulator 2 1.15.1",
+        "url":"https://www.filehorse.com/download/file/9Yalr7zsk0nF-3OuQkB7k9BrVPHbJu-vky-eKoXfZowei4N7pkpfO2Mm4KtvhqdlWo_z9hxFA9s21R9uzEocMC3bl4f936jPeV2n21bVHaI/"
+    },
+    {
+        "name":"Resident Evil Village",
+        "url":"https://store.steampowered.com/app/1196590/Resident_Evil_Village/"
+    },
+    {
+       "name":"BlueStacks",
+       "url":"https://bstk.me/lNowNWAUw"
+    },
+    {
+        "name":"Adobe Photoshop CC 2022 23.2.1 (64-bit)",
+        "url":"https://clk.tradedoubler.com/click?p=264355&a=3168499&g=23567528"
+    },
+    {
+        "name":"Brave Browser (64-bit)",
+        "url":"https://laptop-updates.brave.com/download/FIL862"
+    },
+    {
+        "name":"Counter Strike 1.6",
+        "url":"https://www.filehorse.com/download/file/87RFXWCuHckzu8Y-YXYQ-WCYIiLKiPwqRoJ9rmjuRq6SJg1SDFdTAN2ARHix3DCwbbRc42hkWSNp0-FplpmAlizJ-DZnDvrwIr1yWlfDcCg/"
+    },
+    {
+        "name":"Google Translate",
+        "url":"https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb"
+    },
+    {
+        "name":"Telegram for PC",
+        "url":"https://telegram.org/dl/desktop/win"
+    },
+    {
+        
     }
 ]
 
