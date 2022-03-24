@@ -72,7 +72,60 @@
         "url":"https://telegram.org/dl/desktop/win"
     },
     {
-        
+       "name":"Camera",
+       "url":"https://chrome.google.com/webstore/detail/camera/hfhhnacclhffhdffklopdkcgdhifgngh"
+    },
+    {
+        "name":"Yandex Browser",
+        "url":"https://browser.yandex.com/download/?from=cont_adw&os=win&full=1&lang=en"
+    },
+    {
+        "name":"Avant Browser",
+        "url":"https://www.filehorse.com/download/file/P_MHC0cKrTmL2ePxAWft1NC8n9Ut9XqSdUk6BYJnB6bu5udyvOf7Vdlblgoo5GtPm3P2G88yklTkfBVal4nTsb25j1iuDMBa8Ob9WJg-cc8/"
+    },
+    {
+        "name":"Java Runtime Environment (64-bit)",
+        "url":"https://www.filehorse.com/download/file/qNDyq3_KBC4iy0ie6WfsZ3zV3ZctvyoI2fEITUtpAiRnZAlm87E0J3k1e_Hsc66eEOnx6XVC4bb9dWVrLaJG57OdtwYzeRY9wrWqQ--cKDE/"
+    },
+    {
+        "name":"Brave Browser (64-bit)",
+        "url":"https://laptop-updates.brave.com/download/FIL862"
+    },
+    {
+        "name":" Free Fire MAX for PC",
+        "url":"https://bstk.me/rhZYXI0uI"
+    },
+    {
+        "name":"PDFelement",
+        "url":"https://www.filehorse.com/download/file/6_7iCbC0dZJDSSQzEQ0fLVQ5zm1TAH_FE8iXvdxr1hOqPEn_7YAp88YLoZ1K1555c07-uxT_dHzm9MkhD1faHWgv9CBkZx1gXojvWPLryNo/"
+    },
+    {
+        "name":"Cyber Hunter for PC",
+        "url":"https://www.ldplayer.net/games/cyber-hunter-on-pc.html?n=75962714#utm_source=aff&utm_medium=aff&utm_campaign=aff75962714"
+    },
+    {
+        "name":"The Battle for Wesnoth",
+        "url":"https://www.filehorse.com/download/file/jHtNeh022crNZq8roKx4VzAHViogce0IoSFGHDGHzh7qxTiMmsUHstZ2rU8t3OYaoWnSvCyenU12oNDulAx2e_oVAaQekrSYgeIaP3YHKIg/"
+    },
+    {
+        "name":"Free Chess",
+        "url":"https://www.filehorse.com/download/file/1q4KiBnwOTDxAPspoTONK2k_ny8cvrn0zUG77ejL2vCNptsvWfVFCQXfugz-ww03dMGM_4No8eM349majxQniZDZnWG-n-SspsuSqj4aYGI/"
+    },
+    {
+       "name":"Grand Theft Auto IV",
+       "url":"https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/"
+    },
+    {
+        "name":"iMyFone AnyTo",
+        "url":"https://www.filehorse.com/download/file/KlYoDs72j95LU4lcA-YfMFRJDIxRgQpynfZnsIF-B8gnG7xZg0yKOrLMztDzHa_r_a6ih0YTwESK8a9oy3pO6LstXdPttbqetardY5uNxtA/"
+    },
+    {
+        "name":"Adobe Dreamweaver",
+        "url":"https://clk.tradedoubler.com/click?p=264355&a=3168499&g=24531572"
+    },
+    {
+        "name":"Embarcadero C++ Builder",
+        "url":"https://www.embarcadero.com/products/cbuilder"
     }
 ]
 
