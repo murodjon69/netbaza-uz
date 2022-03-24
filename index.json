@@ -126,6 +126,46 @@
     {
         "name":"Embarcadero C++ Builder",
         "url":"https://www.embarcadero.com/products/cbuilder"
+    },
+    {
+         "name":"VSCode",
+         "url":"https://go.microsoft.com/fwlink/?LinkID=623230"       
+    },
+    {
+        "name":"Inno Setup",
+        "url":"https://www.filehorse.com/download/file/bAW-CK1qvvnXe-5-ok8eyK9cW2LyWs4GUj0ThNAW_yZAuH901LJ-y871BlUoMNWHJfOClNd75Y7dPSACn5f9zDI4nFRz8lfXzE03oIow_4M/"
+    },
+    {
+        "name":"Firefox (64-bit)",
+        "url":"https://ftp.mozilla.org/pub/firefox/releases/98.0.2/win64/en-US/Firefox Setup 98.0.2.exe"
+    },
+    {
+        "name":"Ashampoo Music Studio",
+        "url":"https://www.dpbolvw.net/click-7579233-15192579"
+    },
+    {
+        "name":"Adobe Audition",
+        "url":"https://clk.tradedoubler.com/click?p=264355&a=3168499&g=24531568"
+    },
+    {
+        "name":"Zoom Meetings",
+        "url":"https://www.zoom.us/client/latest/ZoomInstaller.exe"
+    },
+    {
+        "name":"Google Meet",
+        "url":"https://workspace.google.com/products/meet/"
+    },
+    {
+        "name":"WinRAR (64-bit)",
+        "url":"https://www.filehorse.com/download/file/SjJK-StQFo_MathGx0Z2pwO50VHRxc0uGBit8OmVBpk39gAKhMHy_83DSLLmBQVoj0o4gomAXwQp69dc-3-yuSJc1t_VjKsExaqbxfrt_rg/"
+    },
+    {
+        "name":"WinZip (64-bit)",
+        "url":"https://www.filehorse.com/download/file/1OKh7d5fXTg1vThBG_xV0jorWiIK6rYsPRLTy7xK9pJ9bjLF3htGzt1mCs9LkQwbO9svssPfTsKcVJQ2_YjDNbq2eJSI0RSARHUqnfwuP0Y/"
+    },
+    {
+        "name":"Adobe Photoshop (64-bit)",
+        "url":"https://clk.tradedoubler.com/click?p=264355&a=3168499&g=23567528"
     }
 ]
 
